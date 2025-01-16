@@ -2,7 +2,7 @@
 
 BetterRest is an iOS application built with SwiftUI that helps users calculate the optimal time to go to bed based on their desired sleep duration, daily coffee intake, and chosen wake-up time. The app leverages CoreML for precise sleep time predictions.
 
-![App design](repo/Screenshot 2025-01-16 at 15.39.20.png)
+![App design](Screenshot%202025-01-16%20at%2015.39.20.png)
 
 ## **Features**
 - Calculates the best bedtime based on user inputs.
@@ -30,7 +30,7 @@ BetterRest is an iOS application built with SwiftUI that helps users calculate t
 - **NavigationStack:** For organizing and navigating between screens in the app.
 - **ZStack:** To handle layered views, such as background colors and content.
 
-![App design calculate](repo/Screenshot 2025-01-16 at 15.39.32.png)
+![App design calculate](Screenshot%202025-01-16%20at%2015.39.32.png)
 
 ## **Inspiration**
 This project was inspired by the ["Hacking with Swift"](https://www.hackingwithswift.com/) course by Paul Hudson.
